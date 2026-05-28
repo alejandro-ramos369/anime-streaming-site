@@ -108,6 +108,9 @@ function App() {
           <p className="text-gray-400 text-center text-sm">
             © 2024 AnimeWatch. All anime data is sourced from public APIs. No ads, completely free.
           </p>
+          <p className="text-gray-500 text-center text-xs mt-2">
+            Made by Alejandro Ramos with Manus 1.6 lite
+          </p>
         </div>
       </footer>
     </div>
